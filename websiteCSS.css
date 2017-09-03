@@ -1,39 +1,24 @@
 body {
-    background-color: #8bb7bf;
+    background-color: #648389;
 }
 
-h1 {
-
+#head1 {
+    text-align: center;
 }
 
 h2 {
     background-color: transparent;
 }
-p {
-    background-color: transparent;
-}
-
-#content {
+#headText {
+    text-align: center;
     background-color: transparent;
 
 }
-#headline {
-    background-color:lightcyan;
-    color: azure;
-    border-bottom: solid;
-    border-color: #605ffb;
 
-}
+.col { border: 1px solid transparent; }
 
-#titleText {
-    color: mediumpurple;
-    alignment: center;
-}
-.row {
-    padding-bottom: 2%;
-}
 #bodyText {
-    alignment: center;
+
 }
 /* Add a black background color to the top navigation */
 .topnav {
@@ -85,12 +70,26 @@ p {
     }
 }
 
-img{
+img {
     width: auto;
-    max-width: 100%;
-    max-height: 70%;
+    max-width: 30%;
+
     alignment: center;
 }
 #container {
     max-width: 50%;
+    text-align: center;
+}
+
+#head1 {
+    color: white;
+
+}
+
+#captionHead{
+    text-align: center;
+}
+
+#capText{
+    text-align: center;
 }
