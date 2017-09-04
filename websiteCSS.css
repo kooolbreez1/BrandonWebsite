@@ -3,12 +3,27 @@ body {
     font-family: "Open Sans"; font-size:22px
 }
 
+p{
+    background-color: lightgray;
+    opacity: .7;
+    max-width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 5px rgba(88, 102, 104, 0.7);
+}
+
+h4,h5{
+    color: #e4e4e4;
+    padding: 20px;
+}
+
 #head1 {
     text-align: center;
 }
 
 h2 {
     background-color: transparent;
+    color: lightgray;
 }
 #headText {
     text-align: center;
@@ -104,6 +119,12 @@ img {
 
 #contact{
     text-align: center;
+    background-color: lightgray;
+    opacity: .7;
+    max-width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 5px rgba(88, 102, 104, 0.7);
 }
 
 #resume{
