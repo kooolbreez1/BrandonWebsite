@@ -1,5 +1,6 @@
 body {
     background-color: #648389;
+    font-family: "Open Sans"; font-size:22px
 }
 
 #head1 {
@@ -72,8 +73,7 @@ h2 {
 
 img {
     width: auto;
-    max-width: 30%;
-
+    max-width: 40%;
     alignment: center;
 }
 #container {
@@ -88,10 +88,18 @@ img {
 
 #captionHead{
     text-align: center;
+    color: lightgray;
+
 }
 
 #capText{
     text-align: center;
+    background-color: lightgray;
+    opacity: .7;
+    max-width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 5px rgba(88, 102, 104, 0.7);
 }
 
 #contact{
@@ -100,4 +108,25 @@ img {
 
 #resume{
     text-align: center;
+}
+
+#profilePic{
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+#projects{
+    text-align: center;
+    color: lightgray;
+    padding-top: 10px;
+}
+
+#projectText{
+    text-align: center;
+    background-color: lightgray;
+    opacity: .7;
+    max-width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 5px rgba(88, 102, 104, 0.7);
 }
