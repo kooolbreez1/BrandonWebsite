@@ -129,6 +129,7 @@ img {
 
 #resume{
     text-align: center;
+    margin-bottom: 50px;
 }
 
 #profilePic{
@@ -150,4 +151,9 @@ img {
     padding: 10px;
     margin: 0 auto;
     box-shadow: 10px 10px 5px rgba(88, 102, 104, 0.7);
+    margin-bottom: 50px;
+}
+
+#myTopnav{
+    margin-bottom: 50px;
 }
