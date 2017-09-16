@@ -202,5 +202,6 @@ dl{
 }
 
 dt{
+    text-decoration: underline;
     padding: 5px;
 }
