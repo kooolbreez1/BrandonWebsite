@@ -176,3 +176,27 @@ img {
 #myTopnav{
     margin-bottom: 50px;
 }
+#faqText{
+    text-align: center;
+    background-color: lightgray;
+    opacity: .7;
+    max-width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 5px rgba(88, 102, 104, 0.7);
+    margin-bottom: 50px;
+}
+#faq{
+    text-align: center;
+    color: lightgray;
+    padding-top: 10px;
+}
+
+dl{
+    background-color: lightgray;
+    opacity: .7;
+    max-width: 80%;
+    padding: 10px;
+    margin: 0 auto;
+    box-shadow: 10px 10px 5px rgba(88, 102, 104, 0.7);
+}
