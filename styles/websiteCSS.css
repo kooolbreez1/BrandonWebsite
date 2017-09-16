@@ -200,3 +200,7 @@ dl{
     margin: 0 auto;
     box-shadow: 10px 10px 5px rgba(88, 102, 104, 0.7);
 }
+
+dt{
+    padding: 5px;
+}
